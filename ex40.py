@@ -6,7 +6,7 @@ class Song(object):
             print(line)
 
 happy_bday = Song(["Happy birthday to you",
-                "I don't want to get sued",
+                "I don't want to get used",
                 "So I'll stop right there"])
 bulls_on_parade = Song(["They rally around tha family",
                 "With pockets full of shells"])
