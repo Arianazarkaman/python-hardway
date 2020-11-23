@@ -1,0 +1,5 @@
+for these exercises there will be no code here it's going to talk about making a virtual environment in ex46 
+then in ex47 you will learn how to run a unit test on your code and finally in ex48 you learn how to write 
+a code by watching through it's unit test it's so cool and because of it's virtual environment i am not able
+to push my code on github
+have fun
