@@ -1,4 +1,4 @@
-class Other(object)
+class Other(object):
 
     def override(self):
         print("parent override")
