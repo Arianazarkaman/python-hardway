@@ -1,0 +1,5 @@
+the exercise 49 is overthere in the book u can add it to your ex48 because they are related 
+from ex50 i am not going to push any codes because it's all about flask webframework and i 
+am using django from another book this has been a great journey i've learned so much u can
+feel free to do the rest of this book or start a new project and book but you must read the 
+exercise at the end of the book that is going to give u some good advice 
